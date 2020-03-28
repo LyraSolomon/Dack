@@ -1,0 +1,4 @@
+.stack-work/
+Compiler.cabal
+dist/
+*.lock
